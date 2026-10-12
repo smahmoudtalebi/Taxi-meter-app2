@@ -10,10 +10,10 @@ android {
 
     defaultConfig {
         applicationId = "ir.taximeter.core"
-        minSdk = 26
+        minSdk = 23
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.7.0-pos-gateway"
+        versionCode = 2
+        versionName = "0.7.2-android6"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
     compileOptions {
